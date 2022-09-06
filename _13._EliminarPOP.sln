@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_13._EliminarPOP", "_13._EliminarPOP\_13._EliminarPOP.pyproj", "{1597EE90-1106-4EA1-8E09-1F836BAA5581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1597EE90-1106-4EA1-8E09-1F836BAA5581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1597EE90-1106-4EA1-8E09-1F836BAA5581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC2D5A8-3D3E-494D-8E91-C484B03D482B}
+	EndGlobalSection
+EndGlobal

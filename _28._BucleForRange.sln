@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_28._BucleForRange", "_28._BucleForRange\_28._BucleForRange.pyproj", "{E65FB498-0189-45A6-9FA2-F7EAF22898BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65FB498-0189-45A6-9FA2-F7EAF22898BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65FB498-0189-45A6-9FA2-F7EAF22898BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC651EE-C25E-4592-BA69-BDA50D0E81E1}
+	EndGlobalSection
+EndGlobal

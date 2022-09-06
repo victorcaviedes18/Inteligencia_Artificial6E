@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_19._ComoConvertirTuplas", "_19._ComoConvertirTuplas\_19._ComoConvertirTuplas.pyproj", "{149057E2-B4DA-49CE-A34F-A56A9FC6FB15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149057E2-B4DA-49CE-A34F-A56A9FC6FB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149057E2-B4DA-49CE-A34F-A56A9FC6FB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E63DD58-9D3A-4B14-8C1E-CBF725AB2013}
+	EndGlobalSection
+EndGlobal

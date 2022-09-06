@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "_29._QueSonDiccionarios", "_29._QueSonDiccionarios\_29._QueSonDiccionarios.pyproj", "{950D7CF3-E014-48E3-BE1A-64EE5EF94CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950D7CF3-E014-48E3-BE1A-64EE5EF94CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950D7CF3-E014-48E3-BE1A-64EE5EF94CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D94BC1-FFCF-4632-9A3D-C2E4DD1BC975}
+	EndGlobalSection
+EndGlobal
