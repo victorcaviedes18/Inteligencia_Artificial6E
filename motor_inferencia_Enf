@@ -1,0 +1,46 @@
+# Reglas
+reglas = [
+    {
+        'enfermedad': 'Resfriado común',
+        'condiciones': ['Congestión nasal', 'Estornudos']
+    },
+    {
+        'enfermedad': 'Gripe',
+        'condiciones': ['Fiebre', 'Dolor de cabeza']
+    },
+    {
+        'enfermedad': 'Alergia',
+        'condiciones': ['Estornudos', 'Picazón en los ojos']
+    },
+    {
+        'enfermedad': 'Asma',
+        'condiciones': ['Dificultad para respirar', 'Sibilancias']
+    },
+    {
+        'enfermedad': 'Hipertensión',
+        'condiciones': ['Presión arterial alta']
+    }
+]
+
+# Síntomas ingresados por el usuario
+sintomas_usuario = ['Estornudos', 'Picazón en los ojos']
+
+# Lista para almacenar las enfermedades inferidas
+enfermedades_inferidas = []
+
+# Motor de inferencia
+for regla in reglas:
+    enfermedad = regla['enfermedad']
+    condiciones = regla['condiciones']
+    
+    # Verificar si todas las condiciones de la regla están presentes en los síntomas del usuario
+    if all(condicion in sintomas_usuario for condicion in condiciones):
+        enfermedades_inferidas.append(enfermedad)
+
+# Imprimir las enfermedades inferidas
+if enfermedades_inferidas:
+    print('Enfermedades inferidas:')
+    for enfermedad in enfermedades_inferidas:
+        print(enfermedad)
+else:
+    print('No se encontraron enfermedades inferidas.')
